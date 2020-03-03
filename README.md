@@ -1,2 +1,2 @@
-# Coding-Guide
+# Programming-Guide
 LaTeX, MATLAB, Python
